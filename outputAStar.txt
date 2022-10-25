@@ -1,0 +1,13 @@
+Win
+The shortest path length: 6
+The shortest path sequence: [4,3] [3,3] [2,4] [1,3] [0,2] [1,1] 
+J	.	J	.	.	R	.	.	.	
+.	J	.	J	.	.	.	.	.	
+.	.	.	.	J	.	.	.	.	
+#	#	#	J	.	.	.	.	.	
+#	D	#	J	.	.	.	.	.	
+#	#	#	.	.	.	.	.	.	
+.	.	.	.	.	.	.	.	.	
+.	.	.	.	.	.	.	.	.	
+.	.	.	.	.	.	.	.	.	
+Time taken: 34
